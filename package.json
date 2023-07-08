@@ -1,0 +1,21 @@
+{
+    "name": "telegram-bot",
+    "version": "1.0.0",
+    "description": "A simple forum which sent data to telegram bot",
+    "main": "index.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "keywords": [
+      "telegram",
+      "bot"
+    ],
+    "author": "shivayadav",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "request": "^2.88.2",
+      "multer": "^1.4.2",
+      "path": "^0.12.7"
+    }
+  }
