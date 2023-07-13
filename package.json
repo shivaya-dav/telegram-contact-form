@@ -2,7 +2,7 @@
     "name": "telegram-bot",
     "version": "1.0.0",
     "description": "A simple forum which sent data to telegram bot",
-    "main": "index.js",
+    "main": "server.js",
     "scripts": {
       "start": "node server.js"
     },
